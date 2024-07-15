@@ -1,0 +1,4 @@
+name: MoreOres
+version: '${project.version}'
+main: org.plugin.moreores.MoreOres
+api-version: '1.21'
